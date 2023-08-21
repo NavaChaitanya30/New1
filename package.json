@@ -1,0 +1,25 @@
+{
+  "name": "sample1-full-stack",
+  "version": "1.0.0",
+  "description": "sample-fullstack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavaChaitanya30/New1.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "Nava Chaitanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavaChaitanya30/New1/issues"
+  },
+  "homepage": "https://github.com/NavaChaitanya30/New1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
